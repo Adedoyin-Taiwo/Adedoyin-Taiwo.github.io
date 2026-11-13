@@ -11,9 +11,8 @@ A static, responsive personal website designed for GitHub Pages.
 
 ## Before publishing
 
-- Replace `hello@example.com` in `index.html` with your professional email address.
-- Replace each `href="#"` in the social links with your LinkedIn, X, and Instagram URLs.
+- Your CV is already included and linked from the home page as a downloadable Word document.
 - Add your university/department to the introductory eyebrow line if you want it shown.
-- Replace the placeholder links in the Papers, Books, and Insights area as those pages or external links become available.
+- Replace the temporary Papers and Insights links as those pages or external links become available.
 
 No build tool or installation is required. Open `index.html` in a browser to preview locally.
